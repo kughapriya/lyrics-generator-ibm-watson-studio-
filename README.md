@@ -1,4 +1,4 @@
-# lyrics-generator-ibm-watson-studio-
+# lyrics-generator-ibm-watson-studio- usng python
 
 Lyrics genrerator project is based on generating lyrics using ibm cloud storage
 
